@@ -306,7 +306,7 @@ Public Class Form1
 
     Private Sub AnlıkDolarTLHesaplamasınıMetneGeçirToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles AnlıkDolarTLHesaplamasınıMetneGeçirToolStripMenuItem.Click
         calcu.Show()
-        calcu.Text = "Şu anda hesap makinesi yapmaya üşendiğimden boş bir forma bakıyorsun."
+        calcu.Text = "Hesap Makinesi"
     End Sub
 
 
